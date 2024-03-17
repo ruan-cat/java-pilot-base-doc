@@ -1,7 +1,7 @@
 {
-  "name": "vuepress-theme-hope-template",
+  "name": "java-pilot-base-doc",
   "version": "2.0.0",
-  "description": "A project of vuepress-theme-hope",
+  "description": "Java领航基地的团队文档",
   "license": "MIT",
   "type": "module",
   "scripts": {
