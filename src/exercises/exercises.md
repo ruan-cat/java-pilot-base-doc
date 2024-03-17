@@ -15,7 +15,7 @@ dir:
 
 地址:
 
-https://vjudge.net.cn/problem/CodeForces-22A
-https://vjudge.net/problem/CodeForces-1941B#author=GPT_zh
-https://vjudge.net/problem/HDU-6948#author=GPT_zh
+https://vjudge.net.cn/problem/CodeForces-22A \
+https://vjudge.net/problem/CodeForces-1941B#author=GPT_zh \
+https://vjudge.net/problem/HDU-6948#author=GPT_zh 
 
