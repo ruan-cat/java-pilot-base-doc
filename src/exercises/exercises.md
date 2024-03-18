@@ -27,3 +27,25 @@ dir:
 - https://vjudge.net/problem/HDU-6948#author=GPT_zh
 
 ![3.17](https://img2.imgtp.com/2024/03/17/T7U9iZil.png)
+
+
+## 2024-3-18 星期一
+
+### Reconnaissance
+
+- https://vjudge.net/problem/CodeForces-32A#author=GPT_zh
+
+![3.18](https://img2.imgtp.com/2024/03/18/C50pe4xC.png)
+
+### Turtle Tenacity: Continual Mods
+
+- https://vjudge.net/problem/CodeForces-1941B#author=GPT_zh
+
+![3.18](https://img2.imgtp.com/2024/03/18/d0pYCeQ1.png)
+
+### Obsession with Robots
+
+- https://vjudge.net/problem/HDU-6948#author=GPT_zh
+
+![3.18](https://img2.imgtp.com/2024/03/18/dSAW3bt7.png)
+
