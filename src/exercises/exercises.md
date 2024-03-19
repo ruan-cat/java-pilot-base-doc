@@ -49,3 +49,24 @@ dir:
 
 ![3.18](https://img2.imgtp.com/2024/03/18/dSAW3bt7.png)
 
+
+## 2024-3-19 星期二
+
+### Borze
+
+- https://vjudge.net/problem/CodeForces-32B#author=GPT_zh
+
+![3.19](https://img2.imgtp.com/2024/03/19/UOJnR0lA.png)
+
+### Setting up Camp
+
+- https://codeforces.com/contest/1945/problem/A
+
+![3.19](https://img2.imgtp.com/2024/03/19/1J0MqiD5.png)
+
+### Lake Counting
+
+- https://vjudge.net/problem/POJ-2386#author=GPT_zh
+
+![3.19](https://img2.imgtp.com/2024/03/19/R7OW1gDB.png)
+
