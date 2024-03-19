@@ -39,13 +39,13 @@ dir:
 
 ### Turtle Tenacity: Continual Mods
 
-- https://vjudge.net/problem/CodeForces-1941B#author=GPT_zh
+- https://codeforces.com/problemset/problem/1933/D
 
 ![3.18](https://img2.imgtp.com/2024/03/18/d0pYCeQ1.png)
 
 ### Obsession with Robots
 
-- https://vjudge.net/problem/HDU-6948#author=GPT_zh
+- https://vjudge.net/problem/CodeForces-8B#author=GPT_zh
 
 ![3.18](https://img2.imgtp.com/2024/03/18/dSAW3bt7.png)
 
