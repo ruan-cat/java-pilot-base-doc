@@ -1,11 +1,16 @@
-
 name: 部署文档
 
 on:
   push:
-    branches:
-      # 确保这是你正在使用的分支名称
+    # 不再部署服务 目前新增加的分支会部署一次page
+    # branches:
+    # 确保这是你正在使用的分支名称
+    # - main
+    # 忽略掉 main 分支的部署行为
+    # 忽略掉 dev 分支的部署行为
+    branches-ignore:
       - main
+      - dev
 
 permissions:
   contents: write
@@ -27,13 +32,11 @@ jobs:
           run_install: true
           version: 8
 
-
       - name: 设置 Node.js
         uses: actions/setup-node@v3
         with:
           node-version: 20
           cache: pnpm
-
 
       - name: 构建文档
         env:
