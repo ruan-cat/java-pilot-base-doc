@@ -89,7 +89,7 @@ dir:
 
 - https://codeforces.com/problemset/problem/1937/B
 
-![3.20](https://img2.imgtp.com/2024/03/20/cSk2UHwU.png)
+![3.21](https://img2.imgtp.com/2024/03/20/cSk2UHwU.png)
 
 
 ## 2024-3-21 星期四
@@ -98,13 +98,13 @@ dir:
 
 - https://vjudge.net/problem/CodeForces-38A#author=GPT_zh
 
-![3.20](https://img2.imgtp.com/2024/03/21/qbxfMlnw.png)
+![3.21](https://img2.imgtp.com/2024/03/21/qbxfMlnw.png)
 
 ### Stack of Presents
 
 - https://vjudge.net/problem/CodeForces-1279C#author=GPT_zh
 
-![3.20](https://img2.imgtp.com/2024/03/21/oHVk29uE.png)
+![3.21](https://img2.imgtp.com/2024/03/21/oHVk29uE.png)
 
 
 ## 2024-3-22 星期五
@@ -113,12 +113,25 @@ dir:
 
 - https://vjudge.net/problem/CodeForces-41A#author=GPT_zh
 
-![3.20](https://img2.imgtp.com/2024/03/22/QVHSH6Jy.png)
+![3.22](https://img2.imgtp.com/2024/03/22/QVHSH6Jy.png)
 
 ### A Game with Traps
 
 - https://vjudge.net/problem/CodeForces-1260D#author=GPT_zh
 
-![3.20](https://img2.imgtp.com/2024/03/22/3moYp7Sh.png)
+![3.22](https://img2.imgtp.com/2024/03/22/3moYp7Sh.png)
 
 
+## 2024-3-23 星期六
+
+### Ball Game
+
+- https://vjudge.net/problem/CodeForces-46A#author=21016020903
+
+![3.23](https://img2.imgtp.com/2024/03/23/aS5lE6JH.png)
+
+### Red and Black
+
+- https://vjudge.net/problem/POJ-1979
+
+![3.23](https://img2.imgtp.com/2024/03/23/D4gnyXCA.png)
