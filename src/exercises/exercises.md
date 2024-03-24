@@ -28,7 +28,6 @@ dir:
 
 ![3.17](https://img2.imgtp.com/2024/03/17/T7U9iZil.png)
 
-
 ## 2024-3-18 星期一
 
 ### Reconnaissance
@@ -48,7 +47,6 @@ dir:
 - https://vjudge.net/problem/CodeForces-8B#author=GPT_zh
 
 ![3.18](https://img2.imgtp.com/2024/03/18/dSAW3bt7.png)
-
 
 ## 2024-3-19 星期二
 
@@ -70,7 +68,6 @@ dir:
 
 ![3.19](https://img2.imgtp.com/2024/03/19/R7OW1gDB.png)
 
-
 ## 2024-3-20 星期三
 
 ### Reconnaissance 2
@@ -91,7 +88,6 @@ dir:
 
 ![3.21](https://img2.imgtp.com/2024/03/20/cSk2UHwU.png)
 
-
 ## 2024-3-21 星期四
 
 ### Army
@@ -106,7 +102,6 @@ dir:
 
 ![3.21](https://img2.imgtp.com/2024/03/21/oHVk29uE.png)
 
-
 ## 2024-3-22 星期五
 
 ### Translation
@@ -120,7 +115,6 @@ dir:
 - https://vjudge.net/problem/CodeForces-1260D#author=GPT_zh
 
 ![3.22](https://img2.imgtp.com/2024/03/22/3moYp7Sh.png)
-
 
 ## 2024-3-23 星期六
 
