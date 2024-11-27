@@ -1,0 +1,14 @@
+{
+	"framework": "vuepress",
+	"buildCommand": "vuepress-vite build src",
+	"installCommand": null,
+	"outputDirectory": "src/.vuepress/dist",
+	"devCommand": null,
+	"public": false,
+	"cleanUrls": true,
+	"git": {
+		"deploymentEnabled": {
+			"main": false
+		}
+	}
+}
